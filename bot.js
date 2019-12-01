@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("650731667841089539")
 setInterval(function() {
-channel.send(`حب امك ولا تحب غير ابوك لنك في الخرة راح تموت صح ولا غلط و لو مش فاهم لطيزي لترجعلي `);
+channel.send(`وات وتين نطين حل عني سويت البوت خلصني  `);
 }, 30)
 })
 
